@@ -29,11 +29,3 @@ cd Task2
 ```
 Then follow the step provided in PAD distillation method.
 https://github.com/NUS-HPC-AI-Lab/PAD
-
-
-## Project 2
-
-Project 2 for ECE 1512 University of Toronto
-
-All Project 2 files are contained in Project 2 sub folder.
-Use the same environment from Project 1. The package should be all included.
