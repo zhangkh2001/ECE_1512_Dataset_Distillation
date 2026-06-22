@@ -1,5 +1,4 @@
 # ECE1512_2024F_Project_1_Repo_KehanZhang
-Project 1 for ECE 1512 University of Toronto
 
 ## Conda Environment
 Task 1 and Task 2 use the same conda environment.
